@@ -1,4 +1,7 @@
-Pedro Henrique Pontes Farath - 98608/
-Lucca Vilaca Okubo - 551538/
-Pedro Lucas de Andrade Nunes - 550366/
-Ian Cancian Nachtergaele - 98387/
+98608 - pedro henrique pontes farath
+
+550366 - Pedro Lucas de Andrade Nunes
+
+98387 - Ian Cancian Nachtergaele
+
+551538 - Lucca Vilaça Okubo
